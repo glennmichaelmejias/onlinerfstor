@@ -1,0 +1,17 @@
+.mywidget{
+	width:126px;
+	height:126px;
+	border-radius:30px;
+	position:fixed;
+	z-index:100;
+	padding-left:20px;
+}
+*[cursormove]{
+	cursor:move;
+}
+.mywidgetsettings{
+	cursor:pointer;
+}
+.mywidgetsettings:hover{
+	color:#007fff;
+}
