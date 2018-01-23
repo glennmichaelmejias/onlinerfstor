@@ -1,0 +1,1 @@
+wrong entry of batch to production count module entry batch 60217, instead of 60317 (receipt #: 12313),      

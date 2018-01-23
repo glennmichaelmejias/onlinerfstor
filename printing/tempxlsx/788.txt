@@ -1,0 +1,1 @@
+Customer: Walk-In-Customer,      ,      Item: Juvenile Vannamei,      ,      UOM: KLS,      ,      Unit Price: 200.00,      ,      
